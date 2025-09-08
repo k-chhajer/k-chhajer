@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Krish👋</h1>
 
-<!--
-**k-chhajer/k-chhajer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a current 3rd year Computer Engineering student at University of Toronto.
 
-Here are some ideas to get you started:
+I'm obsessed with understanding the foundations of today's frontier AI products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love building scrappy yet purpose driven projects in my free time.
+
+I'd be more than happy to connect and chat:
+
+- Email- krish.chhajer@mail.utoronto.ca
+  
+- Personal Website- https://krishchhajer.com
+  
+- Linkedin- https://www.linkedin.com/in/krish-chhajer/
