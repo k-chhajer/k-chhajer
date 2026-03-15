@@ -1,15 +1,7 @@
-<h1 align="center">Hi, I'm Krish👋</h1>
+hi, i'm krish!
 
-I'm a current 3rd year Computer Engineering student at University of Toronto.
+ece @ uoft. interested in agents and hardware acceleration.
 
-I'm obsessed with understanding the foundations of today's frontier AI products.
+when i'm not training models, i'm short-circuiting circuits at uoft hackerfab.
 
-I love building scrappy yet purpose driven projects in my free time.
-
-I'd be more than happy to connect and chat:
-
-- Email- krish.chhajer@mail.utoronto.ca
-  
-- Personal Website- https://krishchhajer.com
-  
-- Linkedin- https://www.linkedin.com/in/krish-chhajer/
+let's chat @ krish [dot] chhajer [at] mail [dot] utoronto [dot]ca
